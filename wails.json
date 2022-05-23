@@ -1,20 +1,10 @@
 {
-  "name": "wailsAngular",
-  "assetdir": "frontend/dist",
-  "frontend:build": "npm run build",
+  "name": "gameecs",
+  "assetdir": "frontend",
   "frontend:install": "npm install",
-  "frontend:dev": "npm run dev_build",
   "wailsjsdir": "./frontend",
   "version": "2",
-  "Path": "",
-  "BuildDir": "",
-  "outputfilename": "wailsAngular.exe",
-  "OutputType": "",
-  "Platform": "",
-  "Author": {
-    "name": "",
-    "email": ""
-  },
+  "outputfilename": "game-ecs.exe",
   "debounceMS": 100,
   "devserverurl": "http://localhost:34115",
   "appargs": ""
